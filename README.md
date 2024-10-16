@@ -1,7 +1,7 @@
 Team members
 1. Muhammet Murat Albaş 
 2. Ahmed Alkhulaifi
-3.Tevfik Aybars Aydoğ
+3. Tevfik Aybars Aydoğ
 
 Project Title: Loan Eligibility Prediction
 
